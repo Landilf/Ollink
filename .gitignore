@@ -1,0 +1,38 @@
+# Gradle, Kotlin and generated build output
+.gradle/
+.kotlin/
+build/
+.externalNativeBuild/
+.cxx/
+
+# Local SDK configuration
+local.properties
+
+# Android Studio: local state and generated project files
+*.iml
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/shelf/
+/.idea/deploymentTargetSelector.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/deviceManager.xml
+/.idea/httpRequests/
+/captures/
+
+# Generated Android packages and signing configuration
+*.apk
+*.aab
+/app/debug/
+/app/release/
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# OS metadata
+.DS_Store
+Thumbs.db

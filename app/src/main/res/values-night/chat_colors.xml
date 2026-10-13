@@ -1,0 +1,4 @@
+<resources>
+    <color name="chat_background">#212121</color>
+    <color name="chat_text">#ECECEC</color>
+</resources>
